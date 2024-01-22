@@ -297,10 +297,6 @@ line-height: normal;
   }
 
 
-  .text-color {
-    color: #FFF500;
-  }
-
   .bg-color {
     background-color: #FFF500;
   }
